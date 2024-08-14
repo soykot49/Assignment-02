@@ -89,6 +89,8 @@ nav .fa-solid,
   display: none;
 }
 
+/* responsive sector */
+
 @media screen and (max-width: 576px) {
   .menu {
     display: none;
@@ -207,7 +209,9 @@ nav .fa-solid,
   color: rgba(255, 255, 255, 0.5);
   margin-top: 5px;
   margin-left: 5%;
-}
+}  
+
+/* responsive sector */
 
 @media screen and (max-width: 576px) {
   .banner-container {
@@ -293,6 +297,8 @@ nav .fa-solid,
   font-size: 0.9rem;
 }
 
+/* responsive sector */
+
 @media screen and (max-width: 576px) {
   .exercise-content {
     display: flex;
@@ -334,6 +340,8 @@ nav .fa-solid,
   object-fit: none;
   object-position: 68% 30% ;
 }
+
+/* responsive sector */
 
 @media screen and (max-width:576px){
   .extra-run{
@@ -426,6 +434,8 @@ nav .fa-solid,
   left: 148px;
   top: 8px;
 }
+
+/* responsive sector */
 
 @media screen and (max-width:576px){
   .special-contrainers{
