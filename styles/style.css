@@ -193,7 +193,7 @@ nav .fa-solid,
   font-size: 0.8rem;
   color: rgba(255, 255, 255, 0.5);
 }
-.card-4 {
+.card-3 {
   position: absolute;
   border: 1px solid rgba(192, 192, 192, 0.308);
   color: white;
@@ -205,12 +205,12 @@ nav .fa-solid,
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(25px);
 }
-.card-4 h3 {
+.card-3 h3 {
   font-size: 1.5rem;
   font-weight: 900;
   margin-left: 5%;
 }
-.card-4 p {
+.card-3 p {
   font-size: 0.7rem;
   color: rgba(255, 255, 255, 0.5);
   margin-top: 5px;
@@ -260,7 +260,7 @@ nav .fa-solid,
     width: 60%;
     height: 15%;
   }
-  .card-4 {
+  .card-3 {
     position: absolute;
     width: 50%;
     height: 16%;
